@@ -1,7 +1,4 @@
 
-```markdown
-<div align="center">
-
 # MotionTask
 
 **Automate Keyboard & Mouse Actions via Real-Time Camera Motion Detection**
