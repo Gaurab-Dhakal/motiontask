@@ -7,9 +7,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-</div>
 
----
 
 MotionTask is a single-file Python application that connects webcams or IP camera streams to system-level macro automation. When computer vision detects movement, MotionTask instantly executes hotkeys or complex input sequences.
 
@@ -23,7 +21,6 @@ MotionTask is a single-file Python application that connects webcams or IP camer
 
 ```
 
----
 
 **Core Capabilities**
 
@@ -52,7 +49,7 @@ MotionTask is a single-file Python application that connects webcams or IP camer
 
 1. **Clone & Install**
    ```bash
-   git clone [https://github.com/yourusername/motiontask.git](https://github.com/yourusername/motiontask.git)
+   git clone [https://github.com/Gaurab-Dhakal/motiontask.git](https://github.com/Gaurab-Dhakal/motiontask.git)
    cd motiontask
    pip install -r requirements.txt
 
@@ -60,7 +57,7 @@ MotionTask is a single-file Python application that connects webcams or IP camer
 
 2. **Launch Application**
 ```bash
-python deepseek_motiontask.py
+python motiontask.py
 
 ```
 
