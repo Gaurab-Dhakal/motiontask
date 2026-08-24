@@ -49,11 +49,10 @@ MotionTask is a single-file Python application that connects webcams or IP camer
 
 1. **Clone & Install**
    ```bash
-   git clone [https://github.com/Gaurab-Dhakal/motiontask.git](https://github.com/Gaurab-Dhakal/motiontask.git)
+   git clone https://github.com/Gaurab-Dhakal/motiontask.git
    cd motiontask
    pip install -r requirements.txt
-
-```
+   ```
 
 2. **Launch Application**
 ```bash
