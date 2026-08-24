@@ -119,7 +119,3 @@ MotionTask auto-detects and processes two JSON schema structures:
 **License**
 
 Distributed under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
-
-```
